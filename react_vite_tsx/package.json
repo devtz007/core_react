@@ -1,7 +1,7 @@
 {
-  "name": "tutor_finder_2_vite_react",
+  "name": "react_vite_tsx",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
