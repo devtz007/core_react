@@ -1,0 +1,42 @@
+{
+  "name": "tutor_finder_2_vite_react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.4.1",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "autoprefixer": "^10.4.20",
+    "css-loader": "^7.1.2",
+    "eslint": "^8.57.0",
+    "eslint-config-react-app": "^7.0.1",
+    "globals": "^15.9.0",
+    "jsdoc": "^4.0.3",
+    "jsdoc-to-markdown": "^8.0.3",
+    "json-server": "^1.0.0-alpha.23",
+    "npm-check-updates": "^17.0.6",
+    "prettier": "^3.3.3",
+    "sass": "^1.77.8",
+    "save-dev": "^0.0.1-security",
+    "style-loader": "^4.0.0",
+    "typescript": "^5.5.3",
+    "url-loader": "^4.1.1",
+    "use-history": "^1.4.1",
+    "vite": "^5.4.1",
+    "vite-plugin-eslint": "^1.8.1",
+    "web-vitals": "^4.2.3",
+    "zod": "^3.23.8"
+  }
+}

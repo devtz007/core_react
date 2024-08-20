@@ -1,0 +1,15 @@
+{
+    "code-runner.terminalRoot": "bash",
+    "terminal.integrated.defaultProfile.linux": "konsole",
+    "snippetsManager.autoCloseSnippetBodyEditor": false,
+    "prettier.configPath": ".prettierrc.js",
+    "prettier.bracketSameLine": true,
+    "prettier.experimentalTernaries": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.resolveGlobalModules": true,
+    "prettier.singleAttributePerLine": false,
+    "prettier.useTabs": true,
+    "prettier.withNodeModules": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
