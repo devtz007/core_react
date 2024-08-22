@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '@': path.resolve(__dirname, './src'), // Alias for the src folder
+      '@': path.resolve(__dirname, 'src'), // Alias for the src folder
     },
     extensions: ['.js', '.css', '.scss', '.json', 'ts', 'tsx'], // Extensions to resolve
   },
@@ -32,5 +32,3 @@ export default defineConfig({
     },
   },
 });
-
-

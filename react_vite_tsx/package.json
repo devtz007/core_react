@@ -1,13 +1,18 @@
 {
-  "name": "react_vite_tsx",
-  "private": true,
+  "name": "tutor_finder_2_vite_react",
+  "private": false,
   "version": "1.0.0",
   "type": "module",
+  "keywords": [
+    "React",
+    "TypeScript"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
-    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "doc": "npx typedoc --options typedoc.json"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -23,14 +28,13 @@
     "eslint": "^8.57.0",
     "eslint-config-react-app": "^7.0.1",
     "globals": "^15.9.0",
-    "jsdoc": "^4.0.3",
-    "jsdoc-to-markdown": "^8.0.3",
     "json-server": "^1.0.0-alpha.23",
     "npm-check-updates": "^17.0.6",
     "prettier": "^3.3.3",
     "sass": "^1.77.8",
     "save-dev": "^0.0.1-security",
     "style-loader": "^4.0.0",
+    "typedoc": "^0.26.6",
     "typescript": "^5.5.3",
     "url-loader": "^4.1.1",
     "use-history": "^1.4.1",

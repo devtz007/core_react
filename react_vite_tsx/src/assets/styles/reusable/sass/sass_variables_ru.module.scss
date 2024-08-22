@@ -1,0 +1,107 @@
+//global
+$--sec-border-C: whitesmoke;
+$--h6-C: #333;
+$--bottom-show-all-bgC: rgba(97, 186, 255, 1);
+$--bottom-show-all-C: #ffffff;
+$--sec-main-heading-C: rgb(97, 186, 255);
+//myBtn-cont
+$--myBtn-bgC: rgba(97, 186, 255, 1);
+$--myBtn-C: #ffffff;
+
+/*----------------------------------------------*/
+//section main heading
+$--sec-main-heading-C: #0e0e0f;
+$--sec-main-heading-alt-C: #ffffff;
+$--sec-main-heading-second-C: rgba(97, 186, 255, 1);
+
+//body
+$--body-bgC: #59d5e0;
+
+//hamburger menu
+$--hamburger-menu-cont-bgC: rgb(255, 255, 255);
+$--hamburger-button-dash-C: rgba(97, 186, 255, 1);
+$--hamburger-parent-menu-item-C: #ffffff;
+$--hamburger-parent-menu-item-hover-C: rgba(255, 255, 255, 0.5);
+$--hamburger-parent-menu-item-hover-bgC: #333;
+
+//child menu
+$--hamburger-child-menu-item-C: rgb(255, 255, 255);
+$--hamburger-child-menu-item-hover-C: #ffffff;
+$--hamburger-child-menu-item-wrapper-bgC: rgb(0, 0, 0);
+$--nav-item-border: rgba(97, 186, 255, 1);
+
+/*----------------------------------------*\
+  search-filter-section
+\*----------------------------------------*/
+/*search-dropdown-filter-2-topics-pagePart*/
+$--sdf2tp-bgC: transparent;
+$--sdf2tp-bC: rgb(220, 220, 229);
+$--sdf2tp-h-bC: #140342;
+$--sdf2tp-dropDown-bgC: white;
+$--sdf2tp-dropDown-bC: rgb(220, 220, 229);
+$--sdf2tp-dropDown-li-C: #140342;
+$--sdf2tp_dropDown-li_h-C: white;
+$--sdf2tp-dropDown-li-hov-bgC: rgb(220, 220, 229);
+$--sdf2tp-dropDown-filter-name-icon-C: #140342;
+$--sdf2tp-dropDown-searchWrap-btn-icon-C: #140342;
+$--sdf2tp-dropDown-filter-name-C: #140342;
+$--sdf2tp-searchWrap_input-bC: rgb(220, 220, 229);
+
+:root {
+  //search-dropdown-filter-1-availability-pagePart
+  --sadf1p-bgC: transparent;
+  --sadf1p-bC: rgb(220, 220, 229);
+  --sadf1p-h-bC: #140342;
+  --sadf1p-filterName-C: #140342;
+  --sadf1p-filterNameWrap-icon-svg-C: #140342;
+  --sadf1p-outputWrap-input-C: rgb(220, 220, 229);
+  --sadf1p-outPutWrap-button-svg-C: #f5f5f5;
+  --sadf1p-dropDown-bgC: white;
+  --sadf1p-dropDown-bC: rgb(220, 220, 229);
+  --sadf1p-dropDown-bsC: red;
+  --sadf1p-dropDown-mainTitle-C: #140342;
+  --sadf1p-dropDown-groupTitle-C: #140342;
+  --sadf1p-dropDownFilterBtn-bgC: transparent;
+  --sadf1p-dropDownFilterBtn-h-bgC: rgb(220, 220, 229);
+  --sadf1p-dropDownFilterBtn-bC: rgb(220, 220, 229);
+  --sadf1p-dropDownFilterBtn-C: #140342;
+
+  //search-slider-filter-1-price-pagePart
+  --ssf1pp-bgC: transparent;
+  --ssf1pp-h-bC: #140342;
+  --ssf1pp-bC: rgb(220, 220, 229);
+  --ssf1pp-thumb-bgC: #140342;
+  --ssf1pp-slider-bgC: #f5f5f5;
+  --ssf1pp-filterName-C: #140342;
+  --ssf1pp-filterName-icon-C: #000000;
+  --ssf1pp-dropDown-mainTitle-C: #140342;
+  --ssf1pp-outputWrap-input-C: rgb(220, 220, 229);
+}
+
+/*-----------------------------------------------*\
+  Header
+\*-----------------------------------------------*/
+$--header-bgC: #9395d3;
+$--header-C: #f5f5f5;
+$--search-box-C: #27272b;
+$--search-box-bgC: #00aff0;
+$--header-border-bottom-C: rgba(255, 255, 255, 0.15);
+$--h3p-othersSubReferWrapA-C: #ffffff;
+$--h3p-othersSubReferWrapA-BC: red;
+$--h3p-othersSubReferWrapA-h-BGC: #86c232;
+$--h3p-othersSubReferWrapA-h-C: #86c232;
+
+/* slogan-sec pagePart*/
+$--slogan-heading-1-C: #643ffb;
+$--slogan-heading-2-C: #643ffb;
+$--slogan-article-C: #3f3f46;
+$--slogan-sec-bgC: white;
+$--slogan-btn-C: #140342;
+
+/*search-filter-section*/
+$--sfs-bgC: rgba(0, 102, 89, 1);
+
+/*-----------------------------------------------*\
+  Footer
+\*-----------------------------------------------*/
+$--footer-bgC: #9395d3;

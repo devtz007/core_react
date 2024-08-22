@@ -1,0 +1,11 @@
+{
+  "entryPoints": ["src/**/*"],
+  "out": "./etc/documentation",
+  "exclude": ["**/node_modules/**"],
+  "excludePrivate": true,
+  "excludeProtected": true,
+  "excludeExternals": true,
+  "includeVersion": false,
+  "tsconfig": "./tsconfig.json",
+  "entryPointStrategy": "expand"
+}
